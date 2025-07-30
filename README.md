@@ -1,1 +1,1 @@
-# Blog
+a simple blog built with HTML
